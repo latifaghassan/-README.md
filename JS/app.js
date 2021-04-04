@@ -9,4 +9,4 @@ console.log (timeArt,typeof timeArt);
 let favArtist = prompt("Who is your favourite artist?");
 console.log (favArtist,typeof favArtist);
 
-alert(' Your name is '  +    userName +  ' your age is '  +  userAge  + ' you spend ' +  timeArt   + ' in art ' + ' your favourite artist is '  +  favArtist );
+alert(' Your name is '  +    userName +  ' your age is '  +  userAge  + ' you spend ' +  timeArt   + 'hours in art ' + ' your favourite artist is '  +  favArtist );
